@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeerenchu09
+- 👋 Hi, I’m dynos
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning nothing yet but I interested to coding
 - 💞️ I’m looking to collaborate on nothing yet
