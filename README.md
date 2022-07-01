@@ -5,6 +5,6 @@
 - 📫 How to reach me (don't reach me)
 chilling and a fan of coding 
 <!---
-yeerenchu09/yeerenchu09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yeerenchu09/dynosis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->If u have any cool codings share with me! (Thanks) 😀
